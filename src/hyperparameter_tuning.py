@@ -18,5 +18,5 @@ for n in estimators:
         results.append({"Trees":n,"Contamination":c,"Detected_anomalies":anomaly_count,"Anomaly_Percentage":round(anomaly_percentage,2)})
 results_df=pd.DataFrame(results)
 print(results_df)
-results_df.to_csv("reports/hyperparameter_tuning.csv",index=False)
+results_df.to_csv("hyperparameter_tuning.csv",index=False)
 print("\nResults saved successfully")
