@@ -61,7 +61,8 @@ This project aims to automate anomaly detection in telecom KPIs using Artificial
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore```
+└── .gitignore
+```
 ## Dataset Description
 The project uses a telecom KPI dataset containing network performance metrics collected from multiple 5G cell sites
 ### Dataset Features
@@ -103,7 +104,8 @@ Model Evaluation
 Hyperparameter Tuning
 |
 ▼
-Streamlit Dasboard```
+Streamlit Dasboard
+```
 ## Machine Learning Model
 ### Algorithm
 Isolation Forest
