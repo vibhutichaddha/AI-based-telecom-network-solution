@@ -26,7 +26,7 @@ This project aims to automate anomaly detection in telecom KPIs using Artificial
 - Joblib
 - Git and GitHub
 ## Project Structure
-AI-Based-5G-KPI-Anomaly-Detection Dasboard
+```AI-Based-5G-KPI-Anomaly-Detection Dasboard
 │
 ├── data/
 │ ├── raw/
@@ -61,7 +61,7 @@ AI-Based-5G-KPI-Anomaly-Detection Dasboard
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── .gitignore```
 ## Dataset Description
 The project uses a telecom KPI dataset containing network performance metrics collected from multiple 5G cell sites
 ### Dataset Features
@@ -79,7 +79,7 @@ Connected_Users   |       Number of Active Users
 - Network_Load
 - Network_Health_Index
 ## Project Workflow
-Raw KPI Dataset
+```Raw KPI Dataset
 |
 ▼
 Data Preprocessing
@@ -103,7 +103,7 @@ Model Evaluation
 Hyperparameter Tuning
 |
 ▼
-Streamlit Dasboard
+Streamlit Dasboard```
 ## Machine Learning Model
 ### Algorithm
 Isolation Forest
@@ -196,4 +196,4 @@ The project generates:
 ## Conclusion
 The AI Based 5G KPI Anomaly Detection Dashboard demonstrates the practical application of machine learning in telecom network monitoring. By integrating data preprocessing, feature engineering, Isolation Forest anomaly detection, hyperparameter tuning, and an interactive Streamlit dashboard, the project provides a scalable framework for proactive monitoring of 5G network performance.
 # Author
-**Vibhuti Chaddha*
+*Vibhuti Chaddha*
