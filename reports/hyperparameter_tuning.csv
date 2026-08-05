@@ -1,4 +1,4 @@
-Trees,Contamination,Detected_anomalies,Anomaly_Percentage
+Trees,Contamination,Detected_Anomalies,Anomaly_Percentage
 50,0.01,10,1.0
 50,0.03,30,3.0
 50,0.05,50,5.0
