@@ -152,7 +152,6 @@ latency.png
 scatter_plot.png
 anomaly_distribution.png
 ```
-```markdown
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard_home.png)
@@ -168,7 +167,7 @@ anomaly_distribution.png
 ### Scatter Plot
 
 ![Scatter](screenshots/scatter_plot.png)
-```
+
 ## Sample Output
 Example prediction output.
 |  Cell ID  |  Throughput  |  Latency  |  Prediction  |
